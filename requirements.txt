@@ -13,6 +13,11 @@ matplotlib>=3.7.0
 plotly>=5.9.0
 seaborn>=0.13.0
 tqdm>=4.66.0
+streamlit
 mplsoccer==1.5.1
+matplotlib
+pandas
+numpy
+
 
 
