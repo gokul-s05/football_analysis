@@ -3,6 +3,7 @@ channels:
   - pytorch
   - nvidia
   - defaults
+  - conda-forge
 dependencies:
   - aiofiles=22.1.0=py310haa95532_0
   - aiosqlite=0.18.0=py310haa95532_0
@@ -230,9 +231,13 @@ dependencies:
     - lapx==0.5.5
     - markdown-it-py==3.0.0
     - mdurl==0.1.2
+    - mplsoccer==1.5.1
+    - matplotlib==3.7.2
+    - numpy
     - opencv-python==4.8.1.78
     - protobuf==4.25.0
     - py-cpuinfo==9.0.0
+    - pandas==2.1.1
     - pyarrow==14.0.0
     - pydeck==0.8.1b0
     - rich==13.6.0
